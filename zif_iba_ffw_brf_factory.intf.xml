@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_IBA_FFW_BRF_FACTORY</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>E</LANGU>
+    <DESCRIPT>FFW Factory</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_IBA_FFW_BRF_FACTORY</CLSNAME>
+     <CMPNAME>IS_FEATURE_ACTIVE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>FFW3 Check Only</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_IBA_FFW_BRF_FACTORY</CLSNAME>
+     <CMPNAME>IS_FEATURE_ACTIVE_ALL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>FFW Check including FFW1 FFW2 and FFW3</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
